@@ -1,0 +1,73 @@
+.proyectosTitle{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 3vh;
+    margin: auto;
+    padding-top: 5vh;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5vh;
+
+}
+
+.projectDiv{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5vh;
+    overflow: hidden;
+
+}
+
+.projectDiv div{
+    width: 80%;
+    margin-left: 10%;
+    height: 40vh;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.projectCard1{
+    background-image: url('../../public/img/project_g.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* filter: blur(5px); */
+    position: relative;
+    color: white;
+
+}
+
+.projectCard2{
+
+    color: white;
+    background-image: url('../../public/img/old_portfoil.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.projectCard3{
+    background-image: url('../../public/img/dress.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.projectNames{
+    text-align: center;
+    font-size: 4vh;
+
+}

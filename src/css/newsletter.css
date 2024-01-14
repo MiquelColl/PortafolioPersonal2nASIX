@@ -1,0 +1,40 @@
+.nlBody{
+    width: 40%;
+    border: solid 2px black;
+    margin-left: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-top: 5vh;
+}
+
+.nlTitle{
+    font-size: 3vh;
+    text-align: center;
+}
+
+.nlBody p{
+    text-align: center;
+}
+
+.dress{
+    width: 80%;
+}
+
+.dressImg{
+    max-width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+a{
+    align-items: center;
+    justify-content: center;
+}
+.gitIcon{
+    margin-top: 5vh;
+    max-height: 15vh;
+    
+}

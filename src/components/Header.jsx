@@ -1,10 +1,15 @@
+import "../css/header.css"
 function Header() {
+
     return (
-        <>
-            <h1>
-                HoLIHeaderRREes
+        <header className="headerPrinc">
+            <h1 className="title">
+                Personal portfolio
             </h1>
-        </>
+
+        </header>
+        
+        
     );
 }
 
