@@ -6,7 +6,7 @@ function Proyectos() {
                 Mis ultimos Proyectos
             </h1>
             <div className="projectDiv">
-                <a href="">    
+                <a href="https://project-g-mcl.netlify.app/">    
                     <div className="projectCard1">
                         
                     </div>
